@@ -1,2 +1,1 @@
-# Simple-Rocket
 # Rocket-Notes
